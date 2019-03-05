@@ -8,4 +8,4 @@
 - https://github.com/dddat1017/PyTorchCrashCourse/blob/master/Part%201%20-%20Neural%20Networks%20with%20PyTorch.ipynb
 - https://github.com/dddat1017/PyTorchCrashCourse/blob/master/Part%202%20-%20Training%20Neural%20Networks.ipynb
 
-<img src="https://user-images.githubusercontent.com/40379856/45923579-11a67800-be9f-11e8-90e1-3083f66f4ab5.gif" width="90%"></img>  
+<img src="https://user-images.githubusercontent.com/40379856/53829218-7b3dae80-3f34-11e9-864d-0a2837edf8da.gif" width="45%"></img> 
